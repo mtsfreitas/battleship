@@ -55,4 +55,4 @@ After starting the client, press the button "JOGAR" if the server is online. The
 
 ![client playing](misc/client_playing.png "Client playing")
 
-Copyright © 2021 Daniel Freitas Martins (dnlfm) and Matheus Freitas Martins (mtsfreitas)
+Copyright © 2021 Matheus Freitas Martins (mtsfreitas) and Daniel Freitas Martins (dnlfm) 
